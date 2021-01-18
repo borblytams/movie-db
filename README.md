@@ -1,2 +1,0 @@
-# movie-db
-Movie db
